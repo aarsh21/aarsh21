@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarsh21
+- 👋 Hi, I’m Aarsh Padia
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning astro , react and next
 - 💞️ I’m looking to collaborate on ...
