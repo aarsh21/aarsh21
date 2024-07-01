@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aarsh Padia
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning astro , react and next
+- 🌱 I’m currently learning astro , rust and go.
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me on discord ```@rimuruweeb```
+- 📫 reach me on discord ```@weel3fps```
 
 <!---
 aarsh21/aarsh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
