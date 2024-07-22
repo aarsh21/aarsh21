@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning astro , rust and go.
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me on discord ```@weel3fps```
+- 📫 reach me on discord ```@weel3```
 
 <!---
 aarsh21/aarsh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
